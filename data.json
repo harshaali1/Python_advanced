@@ -1,0 +1,20 @@
+{
+    "vict": {
+      "name": "John Doe",
+      "address": "1234 Elm Street",
+      "city": "Metropolis",
+      "postal_code": "12345",
+      "phone_number": "555-1234",
+      "email": "johndoe@example.com"
+    },
+    "commercial": {
+      "company_name": "ACME Corp",
+      "contact_person": "Jane Smith",
+      "business_address": "5678 Oak Avenue",
+      "city": "Gotham",
+      "postal_code": "67890",
+      "phone_number": "555-5678",
+      "email": "janesmith@acmecorp.com"
+    }
+  }
+  
